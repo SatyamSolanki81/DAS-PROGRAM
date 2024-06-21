@@ -1,4 +1,4 @@
-//array me missing eleent find karna ka program
+//Find Missing Element program
 class demo
 {
 	public static void main(String ar[])
